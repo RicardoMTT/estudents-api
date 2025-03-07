@@ -31,3 +31,9 @@ Para ejecutar las pruebas unitarias ejecuta el siguiente comando
 ```
   mvn test
 ```
+
+
+### Preguntas de Oracle
+
+Para las preguntas con la base de datos Oracle seguir el siguiente enlace https://gist.github.com/RicardoMTT/0c5ee202b6379b3bf96cc521b962d9ae
+
